@@ -10,6 +10,5 @@ What we want to do to solve this problem is predict how many refugees will flow 
 # Objective 
 
 The research aims to provide
-
-a prediction on refugee influx each year​
-a prediction of demand for employment the asylum countries to which refugees can fulfill
+* a prediction on refugee influx each year​
+* a prediction of demand for employment the asylum countries to which refugees can fulfill
