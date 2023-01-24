@@ -26,3 +26,13 @@ The research aims to provide
 * https://www.macrotrends.net/countries/FRA/france/refugee-statistics
 * https://www.macrotrends.net/countries/CAN/canada/refugee-statistics
 * https://data.bls.gov/PDQWeb/ln (LabourForceParticipationRate Dataset)
+
+
+## Results interpretation
+
+We can see that throughout the years about **0.36% to 0.51%** of the available jobs (job openings) in a year could be filled be the refugees that need jobs. The calculation is by dividing Jobs Needed against Predicted Average of Job Openings to compare apple to apple
+
+Note: Future Research: <br>
+We will have to obtain more information especially when it comes to education level, skill sets, and experience to match it with the job openings to have a more accurate predictions. This prediction done is based on the assumption that Refugees are not picky, have the relevant skillset the employers are looking for, and the employers are hiring based on the skill set that matches the job. 
+
+Limitation: Racism, Ethnocentrism and Sexism from employers are variables we are unable to predict and fit into models to predict whether or not they'll employ the refugees to fulfill their job openings. 
